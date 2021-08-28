@@ -81,3 +81,5 @@ document.addEventListener('DOMContentLoaded', function () {
         document.getElementById('heads-percent').textContent = percentHeads + '%'
         document.getElementById('tails').textContent = tailsRolls
         document.getElementById('tails-percent').textContent = percentTails + '%'
+            })
+})
